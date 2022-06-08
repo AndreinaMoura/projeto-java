@@ -21,7 +21,7 @@ public class TelaPrincipal extends JFrame implements ActionListener {
 		private JMenuBar barraMenu = new JMenuBar();
 		private JMenu menuArquivo, menuSistema;
 		private JMenuItem itemProdutos, itemVendas, itemLogin, itemSair;
-		private String imgIco = "./assets/icone.png";
+		private String imgIco = ".\\assets\\2.png";
 		private String imgFundo = "./assets/fundo.png";
 		private ImageIcon fundo;
 		private JLabel lbFundo = new JLabel();

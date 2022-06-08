@@ -62,7 +62,7 @@ public class ProdutoForm extends JFrame implements ActionListener {
 		setBounds(100, 100, 800, 720);
 		setIconImage(new ImageIcon(imgIco).getImage());
 		painel = new JPanel();
-		painel.setBackground(new Color(255,255,255));
+		painel.setBackground(new Color(255, 233, 213));
 		setContentPane(painel);
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
 		setLayout(null);

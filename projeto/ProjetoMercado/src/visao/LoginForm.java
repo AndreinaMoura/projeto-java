@@ -26,7 +26,7 @@ public class LoginForm extends JFrame implements ActionListener{
 	private JPasswordField senha;
 	private JButton login;
 	private String imgIco = ".\\assets\\2.png";
-	private String [] fundo = {".\\assets\\fundo.png"};
+	private String [] fundo = {".\\assets\\fundo3.png"};
 	private ImageIcon icon;
 	
 	LoginForm() {
